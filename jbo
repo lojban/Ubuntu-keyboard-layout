@@ -1,0 +1,48 @@
+xkb_symbols "basic"
+{
+	name[Group1] = "Lojban";
+	key <AB01> { [              z,              Z                                 ] }; // z Z 
+	key <AB02> { [              x,              X                                 ] }; // x X 
+	key <AB03> { [              c,              C                                 ] }; // c C 
+	key <AB04> { [              v,              V                                 ] }; // v V 
+	key <AB05> { [              b,              B                                 ] }; // b B 
+	key <AB06> { [              n,              N                                 ] }; // n N 
+	key <AB07> { [              m,              M                                 ] }; // m M 
+	key <AB08> { [          comma,              U00AB                             ] }; // , « 
+	key <AB09> { [         period,              U00BB                             ] }; // . » 
+	key <AB10> { [       question,              exclam                            ] }; // ? ! 
+	key <AC01> { [              a,              A                                 ] }; // a A 
+	key <AC02> { [              s,              S                                 ] }; // s S 
+	key <AC03> { [              d,              D                                 ] }; // d D 
+	key <AC04> { [              f,              F                                 ] }; // f F 
+	key <AC05> { [              g,              G                                 ] }; // g G 
+	key <AC06> { [     quoteright,              h                                 ] }; // ' h 
+	key <AC07> { [              j,              J                                 ] }; // j J 
+	key <AC08> { [              k,              K                                 ] }; // k K 
+	key <AC09> { [              l,              L                                 ] }; // l L 
+	key <AC10> { [          colon,    KP_Multiply                                 ] }; // : * 
+	key <AD01> { [     dead_breve                                                 ] }; // D˘ 
+	key <AD02> { [     dead_acute,     dead_grave                                 ] }; // D´ D` 
+	key <AD03> { [              e,              E                                 ] }; // e E 
+	key <AD04> { [              r,              R                                 ] }; // r R 
+	key <AD05> { [              t,              T                                 ] }; // t T 
+	key <AD06> { [              y,              Y                                 ] }; // y Y 
+	key <AD07> { [              u,              U                                 ] }; // u U 
+	key <AD08> { [              i,              I                                 ] }; // i I 
+	key <AD09> { [              o,              O                                 ] }; // o O 
+	key <AD10> { [              p,              P                                 ] }; // p P 
+	key <AD11> { [ Armenian_parenleft                                             ] }; // ( 
+	key <AD12> { [ Armenian_parenright                                            ] }; // ) 
+	key <AE01> { [              1                                                 ] }; // 1 
+	key <AE02> { [              2                                                 ] }; // 2 
+	key <AE03> { [              3                                                 ] }; // 3 
+	key <AE04> { [              4                                                 ] }; // 4 
+	key <AE05> { [              5                                                 ] }; // 5 
+	key <AE06> { [              6                                                 ] }; // 6 
+	key <AE07> { [              7                                                 ] }; // 7 
+	key <AE08> { [              8                                                 ] }; // 8 
+	key <AE09> { [              9                                                 ] }; // 9 
+	key <AE10> { [              0                                                 ] }; // 0 
+	key <TLDE> { [     asciitilde                                                 ] }; // ~ 
+};
+
